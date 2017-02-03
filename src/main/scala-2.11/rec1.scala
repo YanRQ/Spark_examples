@@ -1,7 +1,6 @@
 /**
   * Created by andy on 16/2/28.
   */
-//package org.jblas
 
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
