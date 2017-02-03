@@ -1,9 +1,6 @@
 /**
   * Created by andy on 16/2/28.
   */
-/**
-  * Created by sgf on 2016/1/20.
-  */
 //package org.jblas
 
 import org.apache.spark.SparkContext
@@ -14,10 +11,6 @@ import org.apache.spark.mllib.recommendation.ALS
 import org.jblas.DoubleMatrix
 import org.apache.spark.mllib.recommendation.Rating
 import org.apache.spark.mllib.recommendation.MatrixFactorizationModel
-
-/**
-  * A simple Spark app in Scala
-  */
 
 object rec1 {
 
